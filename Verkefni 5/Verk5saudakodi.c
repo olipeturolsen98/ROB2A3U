@@ -1,19 +1,19 @@
 int threshold = 505;
 while(true)
   {
-    // Hægri sensor er á linu
+    // HÃ¦gri sensor er Ã¡ linu
     if(SensorValue(lineFollowerRIGHT) > threshold)
     {
-    // Örlítiğ til hægri
+    // Ã–rlÃ­tiÃ° til hÃ¦gri
     }
-    // Miğju sensor er á línu
+    // MiÃ°ju sensor er Ã¡ lÃ­nu
     if(SensorValue(lineFollowerCENTER) > threshold)
     {
-    // Beint áfram
+    // Beint Ã¡fram
     }
-    // Vinsti sensor er á líu
+    // Vinsti sensor er Ã¡ lÃ­u
     if(SensorValue(lineFollowerLEFT) > threshold)
     {
-    // Örlítiğ til vinstri
+    // Ã–rlÃ­tiÃ° til vinstri
     }
 }

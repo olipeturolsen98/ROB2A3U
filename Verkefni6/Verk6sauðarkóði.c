@@ -1,0 +1,15 @@
+followline(){
+	
+}
+
+claw(){
+	
+}
+
+turnaround(){
+	
+}
+
+armseson(){
+	
+}
